@@ -23,6 +23,5 @@
 
 程序入口为main.class，参数配置可在main方法中手动配置。下面是给定两组的运行结果
 
+![alt text](img.png)
 
-
-![Screenshot 2018-10-18_11-43-11](/Users/wangcongcong/Desktop/Screenshot 2018-10-18_11-43-11.png)
